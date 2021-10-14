@@ -1,4 +1,4 @@
-package br.com.projaulasqlite;
+package br.com.projaulasqlite.Model;
 
 public class Agenda {
 

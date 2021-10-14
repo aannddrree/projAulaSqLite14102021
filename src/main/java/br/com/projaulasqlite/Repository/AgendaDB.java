@@ -1,4 +1,7 @@
-package br.com.projaulasqlite;
+package br.com.projaulasqlite.Repository;
+
+import br.com.projaulasqlite.Utils.Banco;
+import br.com.projaulasqlite.Model.Agenda;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

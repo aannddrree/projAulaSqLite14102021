@@ -1,4 +1,4 @@
-package br.com.projaulasqlite;
+package br.com.projaulasqlite.Utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
